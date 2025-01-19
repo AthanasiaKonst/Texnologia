@@ -1,0 +1,11 @@
+main\java\com\mycompany\musicfestival\artist\Artist.class
+main\java\com\mycompany\musicfestival\menu\Menu.class
+main\java\com\mycompany\musicfestival\stuff\StaffActions.class
+main\java\com\mycompany\musicfestival\User.class
+main\java\com\mycompany\musicfestival\organiser\OrganiserActions.class
+main\java\com\mycompany\musicfestival\visitor\VisitorActions.class
+main\java\com\mycompany\musicfestival\artist\ArtistActions.class
+main\java\com\mycompany\musicfestival\stuff\Staff.class
+main\java\com\mycompany\musicfestival\organiser\Organiser.class
+main\java\com\mycompany\musicfestival\visitor\Visitor.class
+com\mycompany\musicfestival\MusicFestival.class
